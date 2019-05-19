@@ -15,8 +15,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "62D6677E1845E0F20046D5D5"
-               BuildableName = "CCHMapClusterController Example iOS.app"
-               BlueprintName = "CCHMapClusterController Example iOS"
+               BuildableName = "MapKitCluster Example iOS.app"
+               BlueprintName = "MapKitCluster Example iOS"
                ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -44,8 +44,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "62D6677E1845E0F20046D5D5"
-            BuildableName = "CCHMapClusterController Example iOS.app"
-            BlueprintName = "CCHMapClusterController Example iOS"
+            BuildableName = "MapKitCluster Example iOS.app"
+            BlueprintName = "MapKitCluster Example iOS"
             ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -67,8 +67,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "62D6677E1845E0F20046D5D5"
-            BuildableName = "CCHMapClusterController Example iOS.app"
-            BlueprintName = "CCHMapClusterController Example iOS"
+            BuildableName = "MapKitCluster Example iOS.app"
+            BlueprintName = "MapKitCluster Example iOS"
             ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -86,8 +86,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "62D6677E1845E0F20046D5D5"
-            BuildableName = "CCHMapClusterController Example iOS.app"
-            BlueprintName = "CCHMapClusterController Example iOS"
+            BuildableName = "MapKitCluster Example iOS.app"
+            BlueprintName = "MapKitCluster Example iOS"
             ReferencedContainer = "container:CCHMapClusterController Example iOS.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
